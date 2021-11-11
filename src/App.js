@@ -6,7 +6,7 @@ export default function App() {
     <div>
   <header>
 <h1> Person SEBN</h1>
-<img src="" alt="Logo"/>
+<img src="/Logo/logo.PNG" alt="Logo"/>
   </header>
   </div>
   )
